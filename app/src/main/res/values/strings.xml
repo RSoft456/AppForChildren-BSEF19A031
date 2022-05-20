@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Childrenapp</string>
+    <string name="LaunchApp">Launch App</string>
+    <string name="Repository">Repository</string>
 </resources>
