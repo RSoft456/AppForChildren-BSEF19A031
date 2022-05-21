@@ -3,4 +3,32 @@
     <string name="LaunchApp">Launch App</string>
     <string name="Repository">Repository</string>
     <string name="title">Click Button to view respective images</string>
+    <string name="Button">A</string>
+    <string name="Button2">B</string>
+    <string name="Button3">C</string>
+    <string name="Button4">D</string>
+    <string name="Button5">E</string>
+    <string name="Button6">F</string>
+    <string name="Button7">G</string>
+    <string name="Button8">H</string>
+    <string name="Button9">I</string>
+    <string name="Button10">J</string>
+    <string name="Button11">K</string>
+    <string name="Button12">L</string>
+    <string name="Button13">M</string>
+    <string name="Button14">N</string>
+    <string name="Button15">O</string>
+    <string name="Button16">P</string>
+    <string name="Button17">Q</string>
+    <string name="Button18">R</string>
+    <string name="Button19">S</string>
+    <string name="Button20">T</string>
+    <string name="Button21">U</string>
+    <string name="Button22">V</string>
+    <string name="Button23">W</string>
+    <string name="Button24">X</string>
+    <string name="Button25">Y</string>
+    <string name="Button26">Z</string>
+
+
 </resources>

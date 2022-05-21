@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Childrenapp">
         <activity
+            android:name=".Quiz"
+            android:exported="false" />
+        <activity
+            android:name=".imagePage"
+            android:exported="false" />
+        <activity
             android:name=".MainPage"
             android:exported="false" />
         <activity
