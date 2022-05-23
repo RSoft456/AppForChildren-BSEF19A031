@@ -3,6 +3,7 @@ package BSEF19A031.Ramsha.childrenapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 
 public class Quiz extends AppCompatActivity {
 

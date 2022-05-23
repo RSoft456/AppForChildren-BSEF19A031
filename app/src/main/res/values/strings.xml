@@ -2,6 +2,7 @@
     <string name="app_name">Childrenapp</string>
     <string name="LaunchApp">Launch App</string>
     <string name="Repository">Repository</string>
+    <string name="Quiz">Take Quiz</string>
     <string name="title">Click Button to view respective images</string>
     <string name="Button">A</string>
     <string name="Button2">B</string>
@@ -29,6 +30,7 @@
     <string name="Button24">X</string>
     <string name="Button25">Y</string>
     <string name="Button26">Z</string>
+    <string name="Image">image</string>
 
 
 </resources>
