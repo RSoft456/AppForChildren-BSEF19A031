@@ -2,6 +2,12 @@
     <string name="app_name">Childrenapp</string>
     <string name="LaunchApp">Launch App</string>
     <string name="Repository">Repository</string>
+    <string name="opA">A</string>
+    <string name="opB">B</string>
+    <string name="opC">C</string>
+    <string name="check"></string>
+    <string name="heading">  Which Alphabet corresponds to the image?</string>
+    <string name="RW"></string>
     <string name="Quiz">Take Quiz</string>
     <string name="title">Click Button to view respective images</string>
     <string name="Button">A</string>
