@@ -20,7 +20,6 @@ public class Quiz extends AppCompatActivity {
     String val2="Next";
     String val3 = "Oops!Wrong answer";
     String val4="Retake Quiz";
-
     String chek = " ";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -280,4 +279,5 @@ public class Quiz extends AppCompatActivity {
             }
         });
     }
+
 }

@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Childrenapp</string>
+    <string name="Alpha">Alphabet</string>
+    <string name="StandFor">Stands For</string>
     <string name="LaunchApp">Launch App</string>
     <string name="Repository">Repository</string>
+    <string name="ListView">ListView</string>
     <string name="opA">A</string>
     <string name="opB">B</string>
     <string name="opC">C</string>
