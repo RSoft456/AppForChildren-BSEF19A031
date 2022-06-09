@@ -216,6 +216,7 @@ public class Quiz extends AppCompatActivity {
             opb.setText("Z");
             opc.setText("I");
         }
+        last.setEnabled(false);
         opa.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -230,6 +231,7 @@ public class Quiz extends AppCompatActivity {
                 }
                 opb.setEnabled(false);
                 opc.setEnabled(false);
+                last.setEnabled(true);
             }
         });
         opb.setOnClickListener(new View.OnClickListener() {
@@ -247,6 +249,7 @@ public class Quiz extends AppCompatActivity {
                 }
                 opa.setEnabled(false);
                 opc.setEnabled(false);
+                last.setEnabled(true);
             }
 
         });
@@ -265,6 +268,7 @@ public class Quiz extends AppCompatActivity {
                 }
                 opa.setEnabled(false);
                 opb.setEnabled(false);
+                last.setEnabled(true);
             }
         });
         last.setOnClickListener(new View.OnClickListener() {
